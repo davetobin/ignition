@@ -1,5 +1,14 @@
 # Change Log
 
+## [999.9.0](https://github.com/IBM/ignition/tree/999.9.0) (2024-05-14)
+[Full Changelog](https://github.com/IBM/ignition/compare/3.6.1...999.9.0)
+
+
+**Implemented enhancements:**
+
+- Documentation changes required in Release.md [\#191](https://github.com/IBM/ignition/issues/191)
+- Security Vulnerability CVE-2024-24762  [\#189](https://github.com/IBM/ignition/issues/189) 
+
 ## [3.6.1](https://github.com/IBM/ignition/tree/3.6.1) (2024-05-14)
 [Full Changelog](https://github.com/IBM/ignition/compare/3.6.0...3.6.1)
 
